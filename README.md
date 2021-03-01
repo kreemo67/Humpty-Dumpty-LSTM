@@ -1,2 +1,2 @@
 # Humpty-Dumpty-LSTM
-Long short term memory project reupload!
+Long short term memory project reupload
